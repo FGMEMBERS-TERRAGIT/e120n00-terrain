@@ -1,0 +1,4 @@
+OBJECT_BASE 4987036.btg
+OBJECT RPML.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 124.613817 8.423418 177.4 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 124.609993 8.405783 181.3 0.00

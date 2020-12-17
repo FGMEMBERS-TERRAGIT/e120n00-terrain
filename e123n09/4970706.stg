@@ -1,0 +1,5 @@
+OBJECT_BASE 4970706.btg
+OBJECT RPVD.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 123.297530 9.333963 10.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 123.307837 9.334598 2.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 123.297228 9.332719 11.3 0.00
